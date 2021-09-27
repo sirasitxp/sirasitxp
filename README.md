@@ -6,7 +6,6 @@
 
 ###### 🖥 Mobile app developer, Frontend web developer
 ###### 💼 Founder of <a href="https://www.siruxsolutions.com/">Sirux</a>  and <a href="https://nurtureland.io/">Nurtureland.io</a>
-###### 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐  𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 at City College of San Francisco
 
 ## 💻 My Tech Stack
 
