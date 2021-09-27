@@ -8,6 +8,7 @@
 ###### 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 Sirux 𝚊𝚗𝚍 Nurtureland.io
 ###### 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐  𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 at City College of San Francisco
 
+## 💻 My Tech Stack
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 aligh="left">Mobile App Development:</h4>
@@ -17,7 +18,6 @@
 <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
 <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-## 💻 My Tech Stack
 <h4 aligh="left">Programming Languages:</h4>
  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
