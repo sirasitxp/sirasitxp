@@ -1,11 +1,11 @@
-# Hello World 👋
+# Hello Coders 👋
 
-## My name is Sirasit(Pum)
+## My name is Sirasit(Pum). 
 
-## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## 📖 About Me
 
 ###### 🖥 Mobile app developer, Frontend web developer
-###### 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 Sirux 𝚊𝚗𝚍 Nurtureland.io
+###### 💼 Founder of <a href="https://www.siruxsolutions.com/">Sirux</a>  and Nurtureland.io
 ###### 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐  𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 at City College of San Francisco
 
 ## 💻 My Tech Stack
