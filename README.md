@@ -46,7 +46,7 @@
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 |-|-|
-| [![Flutter](https://img.shields.io/static/v1?label=&message=Flutter&color=3C78A9&logo=flutter&logoColor=FFFFFF)](https://www.python.org/) | [![Nurtureland.io - Productivity App Made with Flutter](https://img.shields.io/static/v1?label=nurtureland&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/hisnameispum/nurtureland) |
+| [![Flutter](https://img.shields.io/static/v1?label=&message=Flutter&color=3C78A9&logo=flutter&logoColor=FFFFFF)](https://flutter.dev) | [![Nurtureland.io - Productivity App Made with Flutter](https://img.shields.io/static/v1?label=nurtureland&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/hisnameispum/nurtureland) |
 
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
