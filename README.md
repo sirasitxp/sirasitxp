@@ -53,6 +53,7 @@
 [] E-commerce web with React and Django
 [] Social media analytic tool(Hootsuite clone) 
 [] Google Calendar Clone (https://www.youtube.com/watch?v=KUKyTRYGrnU)
+[] Zoom Clone
 
 
 [![pum's GitHub stats](https://github-readme-stats.vercel.app/api?username=hisnameispum)](https://github.com/anuraghazra/github-readme-stats)
