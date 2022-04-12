@@ -4,7 +4,7 @@
 
 ## 📖 About Me
 
-<p> 🖥  Mobile app developer, Frontend web developer </p>
+<p> 🖥  Software engineer, tech entrepreneur </p>
 <p> 💼  Founder of <a  target="_blank" href="https://www.siruxsolutions.com/">Sirux</a>  and <a target="_blank" href="https://nurtureland.io/">Nurtureland.io</a> </p>
 
 ## 💻 My Tech Stack
