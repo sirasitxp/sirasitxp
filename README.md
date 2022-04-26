@@ -1,13 +1,13 @@
 # Hello Coders 👋
 
-### My name is Sirasit Thitirattanakorn, I also go by Pum. 
+## My name is Sirasit Thitirattanakorn, I also go by Pum. 
 
-## 📖 About Me
+# 📖 About Me
 
 <p> 🖥  Software engineer</p>
 <p> 💼  Founder of <a  target="_blank" href="https://www.siruxsolutions.com/">Sirux</a>  and <a target="_blank" href="https://nurtureland.io/">Nurtureland.io</a> </p>
 
-## 💻 My Tech Stack
+# 💻 My Tech Stack
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 aligh="left">Mobile App Development:</h4>
