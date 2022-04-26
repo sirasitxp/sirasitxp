@@ -1,6 +1,6 @@
 # Hello Coders 👋
 
-## My name is Sirasit Thitirattanakorn, I also go by Pum. 
+### My name is Sirasit Thitirattanakorn, I also go by Pum. 
 
 ## 📖 About Me
 
