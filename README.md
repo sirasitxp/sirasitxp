@@ -48,7 +48,8 @@
 | 💻 **Technology** | 🚀 **Projects** |
 |-|-|
 | [![Flutter](https://img.shields.io/static/v1?label=&message=Flutter&color=3C78A9&logo=flutter&logoColor=FFFFFF)](https://flutter.dev) | [![Nurtureland.io - Productivity App Made with Flutter](https://img.shields.io/static/v1?label=nurtureland&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/hisnameispum/nurtureland) |
-| [![React](https://img.shields.io/static/v1?label=&message=Flutter&color=3C78A9&logo=flutter&logoColor=FFFFFF)](https://flutter.dev) | [![Keeper - Your favorite note-taking app](https://img.shields.io/static/v1?label=nurtureland&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/hisnameispum/keeper) |
+| [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+)](https://reactjs.org/) | [![Keeper - Your favorite note-taking app](https://img.shields.io/static/v1?label=nurtureland&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/hisnameispum/keeper) |
 
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
