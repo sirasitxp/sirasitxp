@@ -48,15 +48,9 @@
 | 💻 **Technology** | 🚀 **Projects** |
 |-|-|
 | [![Flutter](https://img.shields.io/static/v1?label=&message=Flutter&color=3C78A9&logo=flutter&logoColor=FFFFFF)](https://flutter.dev) | [![Nurtureland.io - Productivity App Made with Flutter](https://img.shields.io/static/v1?label=nurtureland&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/hisnameispum/nurtureland) |
+| [![Flutter](https://img.shields.io/static/v1?label=&message=Flutter&color=3C78A9&logo=flutter&logoColor=FFFFFF)](https://flutter.dev) | [![Keeper - Your favorite note-taking app](https://img.shields.io/static/v1?label=nurtureland&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/hisnameispum/nurtureland) |
 
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
-[] Google Drive Clone
-[] E-commerce web with React and Django
-[] Social media analytic tool(Hootsuite clone) 
-[] Google Calendar Clone (https://www.youtube.com/watch?v=KUKyTRYGrnU)
-[] Zoom Clone
-[] Gather clone
-
 
 [![pum's GitHub stats](https://github-readme-stats.vercel.app/api?username=hisnameispum)](https://github.com/anuraghazra/github-readme-stats)
 
