@@ -42,17 +42,7 @@
 
 
 
-## 💻 My Projects
 
-<!-- START OF PROFILE STACK, DO NOT REMOVE -->
-| 💻 **Technology** | 🚀 **Projects** |
-|-|-|
-| [![Flutter](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-)]https://flutter.dev) | [![Nurtureland.io - Productivity App Made with Flutter](https://img.shields.io/static/v1?label=nurtureland&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/hisnameispum/nurtureland) |
-| [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-)](https://reactjs.org/) | [![Keeper - Your favorite note-taking app](https://img.shields.io/static/v1?label=nurtureland&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/hisnameispum/keeper) |
-
-<!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 [![pum's GitHub stats](https://github-readme-stats.vercel.app/api?username=hisnameispum)](https://github.com/anuraghazra/github-readme-stats)
 
