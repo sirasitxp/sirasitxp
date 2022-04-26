@@ -6,6 +6,8 @@
 
 <p> 🖥  Software engineer</p>
 <p> 💼  Founder of <a  target="_blank" href="https://www.siruxsolutions.com/">Sirux</a>  and <a target="_blank" href="https://nurtureland.io/">Nurtureland.io</a> </p>
+<p> 🌱  I'm currently learning Fullstack web development.</p>
+
 
 # 💻 My Tech Stack
 
