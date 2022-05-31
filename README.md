@@ -6,7 +6,7 @@
 
 # 📖 About Me
 
-<p> 🖥  Software engineer</p>
+<p> 🖥  Indie Hacker</p>
 <p> 💼  Founder of <a  target="_blank" href="https://www.siruxsolutions.com/">Sirux</a>  and <a target="_blank" href="https://nurtureland.io/">Nurtureland.io</a> </p>
 <p> 🌱  I'm currently learning full-stack web development.</p>
 <p> 🔭  Currently working on the MVP of <a target="_blank" href="https://nurtureland.io/">Nurtureland.io</a></p>
