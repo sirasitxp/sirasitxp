@@ -47,7 +47,7 @@
 <a href="https://www.heroku.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40"/> </a> 
 
 <h4 aligh="left">Web3 Technology:</h4>
-<a href="https://www.docker.com/" target="_blank"> <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg](https://dfinity-foundation.gallerycdn.vsassets.io/extensions/dfinity-foundation/vscode-motoko/0.3.9/1614860212830/Microsoft.VisualStudio.Services.Icons.Default)" alt="motoko" width="40" height="40"/> </a> 
+<a href="https://internetcomputer.org/docs/current/developer-docs/build/languages/motoko/" target="_blank"> <img src="https://internetcomputer.org/img/IC_logo_horizontal.svg" alt="motoko" width="40" height="40"/> </a> 
 
 
 
