@@ -8,7 +8,7 @@
 
 <p> 🖥  Indie Hacker</p>
 <p> 💼  Founder of <a  target="_blank" href="https://www.siruxsolutions.com/">Sirux</a>  and <a target="_blank" href="https://nurtureland.io/">Nurtureland.io</a> </p>
-<p> 🌱  I'm currently learning Motoko with React</p>
+<p> 🌱  I'm currently learning Next Js and TypeScript</p>
 <p> 🔭  Currently contributing to 2 opensource projects <a target="_blank" href="https://leadgo.org/">LEADGO</a> and <a target="_blank" href="https://labs.codeday.org/">CodeDay Labs</a></p>
 
 
