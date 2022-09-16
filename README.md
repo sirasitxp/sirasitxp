@@ -10,8 +10,8 @@
 <p> 💼  Founder of <a  target="_blank" href="https://www.siruxsolutions.com/">Sirux</a>  and <a target="_blank" href="https://nurtureland.io/">Nurtureland.io</a> </p>
 <p> 🌱  I'm currently learning Next Js and TypeScript</p>
 <p> 🔭  Currently working on Sirux, Nurtureland.io </p>
-<p> </p>
-</p> I also produce songs on my Youtube, hear them out <a href="https://www.youtube.com/channel/UCDIgjpSS4f5lka5mkPLsZeA/featured">here</a></p>
+<p> 📖 Opensource contributor for FreeCodeCamp </p>
+<p> 🎹 I also produce songs on my Youtube, hear them out <a href="https://www.youtube.com/channel/UCDIgjpSS4f5lka5mkPLsZeA/featured">here</a></p>
 
 
 
