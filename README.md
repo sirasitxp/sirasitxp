@@ -9,7 +9,7 @@
 <p> 🖥  Indie Hacker</p>
 <p> 💼  Founder of <a  target="_blank" href="https://www.siruxsolutions.com/">Sirux</a>  and <a target="_blank" href="https://nurtureland.io/">Nurtureland.io</a> </p>
 <p> 🌱  I'm currently learning Next Js and TypeScript</p>
-<p> 🔭  Currently working on Sirux, Nurtureland.io, and Chapter.
+<p> 🔭  Currently working on Sirux, Nurtureland.io
 
 
 
