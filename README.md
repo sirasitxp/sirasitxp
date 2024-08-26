@@ -73,9 +73,11 @@
 <br>
 <br>
 
+<!--
 
 [![pum's GitHub stats](https://github-readme-stats.vercel.app/api?username=hisnameispum)](https://github.com/anuraghazra/github-readme-stats)
 
+-->
 
 <!--
 
