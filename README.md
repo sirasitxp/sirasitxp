@@ -7,7 +7,7 @@
 # 📖 About Me
 
 <p> 🖥  Indie Hacker</p>
-<p> 💼  Founder of <a  target="_blank" href="https://www.siruxsolutions.com/">Sirux</a>  and <a target="_blank" href="https://nurtureland.io/">Nurtureland.io</a> </p>
+<p> 💼  Founder of <a  target="_blank" href="https://www.sirux.io/">Sirux</a>.</p>
 <p> 🌱  I'm currently learning Next Js and TypeScript</p>
 <p> 🔭  Currently working for Sirux, Nurtureland.io, and LeadGO America </p>
 <p> 📖 Opensource contributor for FreeCodeCamp and Chapter </p>
