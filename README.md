@@ -10,7 +10,6 @@
 <p> 💼  Founder of <a  target="_blank" href="https://www.sirux.io/">Sirux</a>, building websites and products for clients</p>
 <p> 🛠  Recently shipped <a target="_blank" href="https://chromewebstore.google.com/detail/z-thru/eelbhbecabdannaddkonkdonahekbdfa">Z-Thru</a> on the Chrome Web Store and <a target="_blank" href="https://www.npmjs.com/package/@sirux/md-press">md-press</a> on npm</p>
 <p> 🌱  Currently diving deeper into PyTorch and applied AI</p>
-<p> 🎓  CS @ San Francisco State University, graduating December 2026</p>
 <p> 📖  Open source contributor for FreeCodeCamp and Chapter</p>
 <p> 🎹  I also produce songs on my Youtube, hear them out <a href="https://www.youtube.com/channel/UCDIgjpSS4f5lka5mkPLsZeA/featured">here</a></p>
 
