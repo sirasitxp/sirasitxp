@@ -1,97 +1,23 @@
-# Hello Coders 👋
+# Hi, I'm Pum 👋
 
+**Sirasit Thitirattanakorn** · CS @ San Francisco State (Dec 2026) · Founder of [Raka AI](https://raka-ai.com) · San Francisco
 
-## 🧙 My name is Sirasit Thitirattanakorn, I also go by Pum. 
+I build and ship real products end to end, from the database to the deploy pipeline.
 
+### Building
+**[Raka AI](https://raka-ai.com)**: AI purchasing intelligence for restaurants. Reads supplier invoices, flags price increases, and suggests menu price updates. Live with our first restaurant for almost a year.
 
-# 📖 About Me
+### Shipped
+| Project | What it is | Link |
+|---|---|---|
+| **Z-Thru** | Offline accessibility checker for local HTML, built on axe-core | [Chrome Web Store](https://chromewebstore.google.com/detail/z-thru/eelbhbecabdannaddkonkdonahekbdfa) |
+| **md-press** | Markdown to self-contained HTML with safe in-page edits. No AI, no tokens. | [npm](https://www.npmjs.com/package/@sirux/md-press) · [repo](https://github.com/sirasitxp/md-press) |
 
-<p> 🖥  Indie Hacker</p>
-<p> 💼  Founder of <a  target="_blank" href="https://www.sirux.io/">Sirux</a>.</p>
-<p> 🌱  I'm currently learning Next Js and TypeScript</p>
-<p> 🔭  Currently working for Sirux, Nurtureland.io, and LeadGO America </p>
-<p> 📖 Opensource contributor for FreeCodeCamp and Chapter </p>
-<p> 🎹 I also produce songs on my Youtube, hear them out <a href="https://www.youtube.com/channel/UCDIgjpSS4f5lka5mkPLsZeA/featured">here</a></p>
+### Open source
+[freeCodeCamp/chapter](https://github.com/freeCodeCamp/chapter): 20+ pull requests, migrated the UI from Chakra UI to Tailwind CSS.
 
+### Stack
+`TypeScript` `React` `Next.js` `Node.js` `Python` `PostgreSQL` `Google Cloud` `Docker` `PyTorch` `GitHub Actions`
 
-
-# 💻 My Tech Stack
-
-<h3 align="left">Languages and Tools:</h3>
-<h4 aligh="left">Mobile App Development:</h4>
-<p align="left"> 
-<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<h4 aligh="left">Programming Languages:</h4>
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://dart.dev/" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" /> 
-</a> 
-<a href="https://www.typescriptlang.org/" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-</a> 
-
-<h4 aligh="left">Databases:</h4>
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://postgrest.org/en/stable/" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-</a> 
-
-
-<h4 aligh="left">Web Development:</h4>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" 
- alt="tailwind" width="40" height="40"/> </a> 
- <a href="https://nextjs.org/" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" 
- alt="nextjs" width="40" height="40"/> 
- </a> 
-
-
-
-<h4 aligh="left">Version control:</h4>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://github.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a> 
-
-
-
-
-<h4 aligh="left">Devops:</h4>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://www.heroku.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40"/> </a> 
-
-
-
-
-<br>
-<br>
-<br>
-
-<!--
-
-[![pum's GitHub stats](https://github-readme-stats.vercel.app/api?username=hisnameispum)](https://github.com/anuraghazra/github-readme-stats)
-
--->
-
-<!--
-
-**hisnameispum/hisnameispum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Elsewhere
+[LinkedIn](https://www.linkedin.com/in/sirasitxp) · [sirux.io](https://sirux.io) · sirasit@sirux.io · I also make music on [YouTube](https://www.youtube.com/channel/UCDIgjpSS4f5lka5mkPLsZeA/featured)
